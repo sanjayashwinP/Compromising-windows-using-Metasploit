@@ -69,7 +69,7 @@ On the target Windows machine, open a Web browser and open this URL, replacing t
 http://192.168.1.2/fun.exe
 The file "fun.exe" downloads. 
 
-![image](https://github.com/user-attachments/assets/dc06a11b-8ee7-4823-b4c4-30fc9e50a3eb)
+![image](https://github.com/user-attachments/assets/1de09061-e779-4139-b93c-7a990bb402a8)
 
 Bypass any warning boxes, double-click the file, and allow it to run.
 
