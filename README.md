@@ -69,9 +69,12 @@ On the target Windows machine, open a Web browser and open this URL, replacing t
 http://192.168.1.2/fun.exe
 The file "fun.exe" downloads. 
 
-![image](https://github.com/user-attachments/assets/1de09061-e779-4139-b93c-7a990bb402a8)
+![Screenshot 2024-11-02 120923](https://github.com/user-attachments/assets/34e93f53-1d09-4a9a-8127-26a3773fcfe7)
 
-Bypass any warning boxes, double-click the file, and allow it to run.
+
+Bypass any warning boxes, double-click the file, and allow it to run.   
+![image](https://github.com/user-attachments/assets/c084de3e-1d8c-42a7-9be9-6a48edba279b)
+
 On kali give the command exploit
 
 ![WhatsApp Image 2024-11-01 at 18 12 04_448ad010](https://github.com/user-attachments/assets/01044599-fd74-433d-ba7a-a96a45e2b164)
