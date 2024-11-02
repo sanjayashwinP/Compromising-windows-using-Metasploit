@@ -72,9 +72,6 @@ The file "fun.exe" downloads.
 ![image](https://github.com/user-attachments/assets/1de09061-e779-4139-b93c-7a990bb402a8)
 
 Bypass any warning boxes, double-click the file, and allow it to run.
-
-![image](https://github.com/user-attachments/assets/a517238b-a224-40d6-93ca-f2efed2c75b2)
-
 On kali give the command exploit
 
 ![WhatsApp Image 2024-11-01 at 18 12 04_448ad010](https://github.com/user-attachments/assets/01044599-fd74-433d-ba7a-a96a45e2b164)
